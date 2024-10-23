@@ -59,7 +59,7 @@ async function getZip() {
 	return new JSZip();
 }
 
-const googleDoesntLikeThis = /malware|virus|trojan/i;
+const googleDoesntLikeThis = /^$/; // I don't care what google thinks, I care about the commons and if said commons want to download torjans then I'm all for it!
 
 async function init() {
 	updateStatus();
