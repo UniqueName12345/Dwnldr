@@ -1,6 +1,7 @@
-# download-directory.github.io <img src="logo.svg" width="50" height="50" align="left">
+# download-directory.github.io <img src="logo.svg" width="50" height="50" align="left"> (Dwnldr fork)
 
 > Download just a sub directory from a GitHub repo
+  > "GitHub Repo" includes viruses because the people demand them
 
 GitHub doesn’t let you download a single folder from a repo, which might be necessary when you just need a few files from a large repository.
 
